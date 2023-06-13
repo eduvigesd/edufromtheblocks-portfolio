@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  display: flex;
+  justify-content:flex-end;
+ background-color:#929292;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+} 
+
+li a:hover{
+  background-color:black;
+}
+.active{
+  background-color: #d6d6d6;
+}
+img{
+  width:300px;
+   display: block;
+margin:auto;
+
+}
+h2{
+  position:absolute;
+  top:100px;
+  left:5%;
+}
+h2 {
+  font-family:'copperplate';
+}
+a{
+  font-family:oswald;
+}
+p{
+  margin:
+}
